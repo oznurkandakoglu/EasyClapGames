@@ -360,6 +360,7 @@
 "Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs"
 "Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
 "Assets/Scripts/CharacterController.cs"
+"Assets/Scripts/CollectObjects.cs"
 -langversion:9.0
 
 /deterministic

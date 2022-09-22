@@ -12,6 +12,7 @@ public class CharacterController : MonoBehaviour
     private Animator _animator;
     private Rigidbody _rigidbody;
 
+
     private void Start()
     {
         _rigidbody = GetComponent<Rigidbody>();

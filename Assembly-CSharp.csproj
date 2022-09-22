@@ -64,6 +64,7 @@
     <Compile Include="Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" />
     <Compile Include="Assets/Joystick Pack/Examples/JoystickSetterExample.cs" />
     <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" />
+    <Compile Include="Assets/Scripts/CollectObjects.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
