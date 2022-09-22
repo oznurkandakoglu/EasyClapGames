@@ -361,6 +361,7 @@
 "Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
 "Assets/Scripts/CharacterController.cs"
 "Assets/Scripts/CollectObjects.cs"
+"Assets/Scripts/MultipleCollectObjects.cs"
 -langversion:9.0
 
 /deterministic
